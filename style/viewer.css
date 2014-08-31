@@ -1,0 +1,134 @@
+@charset "utf-8";
+.eventtitle
+{
+	position:absolute;
+	width:96%;
+	height:40px;
+	top:52px;
+	margin-left:2%;
+	margin-right:2%;
+	font-family:"segoe UI", Arial;
+	font-size:30px;
+	background:#099;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	color:#fff;
+	text-shadow:1px 1px 1px #009999;
+	box-shadow:10px 10px 10px #CCCCCC;
+
+
+}
+.datebar
+{
+	position:absolute;
+	width:90%;
+	height:60px;
+	top:110px;;
+	margin-left:5%;
+	margin-right:5%;
+	font-family:"segoe UI", Arial;
+	font-size:18px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	color:#066;
+	text-align:center;
+	box-shadow:-1px 1px 30px #999999;
+
+
+}
+.smallfont
+{
+	font-family:"segoe UI", Arial;
+	font-size:14px;
+	color:#000;
+}
+.aboutbox
+{
+	position:relative;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	background:url(img/tile1.png);
+	box-shadow:0px 0px 5px #0066CC;
+}
+.aboutbox:hover
+{
+		box-shadow:0px 0px 5px #0099CC;
+
+}
+
+.addressbox
+{   position:relative;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	background:url(img/tile1.png);
+	box-shadow:10px 10px 10px #CCCCCC;
+
+}
+.optionbar
+{
+	position:absolute;
+	height:120px;
+	width:100%;
+	left:-1px;
+	background:#09C;
+	bottom:20px;
+}
+.table
+{
+	position:absolute;top:160px;
+	left:5%;
+	width:90%;
+	table-layout:auto;
+}
+.optbottom
+{
+	position:absolute;
+	width:90%;
+	bottom:1%; 
+	margin-left:5%
+}
+.optbottom-icon
+{
+	cursor:pointer;
+	width:100px;
+	height:100px;
+
+}
+.optbottom-icon:hover
+{
+}
+.mapbar
+{
+
+	width:100%;
+	left:-1px;
+	background:#999;
+	height:500px;
+}
+.mapmid
+{
+	position:relative;
+	left:50%;
+	top:50%;
+}
+.data
+{
+	font-family:"Segoe UI", Arial, Verdana;
+	font-size:16px;
+	color:#060;
+}
+.data2
+{
+	font-family:"Segoe UI", Arial, Verdana;
+	font-size:15px;
+}

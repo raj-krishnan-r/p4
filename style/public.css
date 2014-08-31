@@ -1,0 +1,56 @@
+@charset "utf-8";
+.sortbar
+{
+	width:300px;
+	border-bottom-right-radius:5px;
+	border-top-right-radius:5px;
+	box-shadow:1px 1px 10px #999999;
+	background:url(img/tile4.png);
+
+}
+.struct
+{
+	position:absolute;
+	top:80px;
+}
+.iframecontainer
+{
+	position:relative;
+	width:1120px;
+	height:700px;
+}
+h3
+{
+	font-family:"Segoe UI", Arial, Verdana;
+	color:#063;
+}
+.resultable
+{
+	background:url(img/tile4.png);
+	font-family:"Segoe UI", Arial, Verdana;
+	width:100%;
+	box-shadow:1px 1px 10px #999999;
+	font-size:14px;
+	
+}
+.resulttablerow
+{
+	background:url(img/tile3.png);
+	border-bottom-right-radius:5px;
+	border-top-right-radius:5px;	
+}
+.resulttablerow:hover
+{
+	background:url(img/tile4.png);
+}
+h4
+{
+	font-family:"Segoe UI", Arial, Verdana;
+}
+.input
+{
+	width:90%;
+}
+body
+{font-family:"Segoe UI", Arial, Verdana;
+}
