@@ -1,12 +1,4 @@
 Note--
-Creating events with already existing titles have to be blocked.
-Creating emails with alerady existing emails have to be blocked.
-
-Settings module have to be created
-
-Bookmarking an event
-
-Cookie
-
-Welcome screen have to populated with some content
+--Remember me option from home screen must be removed
+--Date picker and Time picker has to be embedded to add-event
 
